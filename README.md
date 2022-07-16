@@ -1,36 +1,45 @@
+
+<a style="text-align:center">
+
+<h1> Hi, I’m @phuvinh010701 </h1>
+
+</a>
+
+<h4 align="center" style="display:block; margin-left: auto; margin-right: auto; width:30%">
+
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
+<hr>
+
 <h4 align="center">
 
-[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/phuvinh010701)](https://www.facebook.com/phuvinh0107/)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/phuvinh010701)](https://www.linkedin.com/in/vinhnguyenphu0107/)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatorafaballerini@gmail.com)
+[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://pycoder.site/)
+[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/phuvinh0107/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinhnguyenphu0107/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenphuvinh01@gmail.com)
 
 </h4>
 
+
+
 <div align="center" style="display: inline_block"><br>
+
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+
 </div>
-  
 
-
-- 🔭 I’m currently studying in University of Information and Technology
-- 👋 Hi, I’m @phuvinh010701
-- 👀 I’m interested in learning programming
-- 🌱 I’m currently learning Computer Science
+<br>
+<br>
 
 <div align="center">
   <a href="https://github.com/phuvinh010701">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phuvinh010701&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phuvinh010701&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuvinh010701&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<!-- 
-![Vinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=phuvinh010701&show_icons=true&theme=tokyonight)
-[![phuvinh010701](https://github-readme-stats.vercel.app/api/top-langs/?username=phuvinh010701&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/phuvinh010701/) -->
-<!---
-phuvinh010701/phuvinh010701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
