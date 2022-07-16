@@ -20,10 +20,16 @@
 - 👋 Hi, I’m @phuvinh010701
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning Computer Science
-- 📫 How to reach me nguyenphuvinh01@gmail.com
 
+<div align="center">
+  <a href="https://github.com/phuvinh010701">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phuvinh010701&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuvinh010701&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<!-- 
 ![Vinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=phuvinh010701&show_icons=true&theme=tokyonight)
-[![phuvinh010701](https://github-readme-stats.vercel.app/api/top-langs/?username=phuvinh010701&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/phuvinh010701/)
+[![phuvinh010701](https://github-readme-stats.vercel.app/api/top-langs/?username=phuvinh010701&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/phuvinh010701/) -->
 <!---
 phuvinh010701/phuvinh010701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
