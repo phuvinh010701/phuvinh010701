@@ -1,7 +1,7 @@
 
 <a style="text-align:center">
 
-<h1> Hi, I’m @phuvinh010701 </h1>
+<h1> Hi, I’m @phuvinh010701 and I hope to become AI Engineer <3 </h1>
 
 </a>
 
