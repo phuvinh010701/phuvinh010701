@@ -42,9 +42,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=phuvinh010701&show_icons=true&theme=radical"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=phuvinh010701&theme=dark"> 
   </a>
-  
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuvinh010701&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
+
+[![Vinh's github activity graph](https://activity-graph.herokuapp.com/graph?username=phuvinh010701&theme=xcode)](https://github.com/phuvinh010701)
+
 
 
   ![Leetcode Stats](https://leetcard.jacoblin.cool/phuvinh0107?theme=dark,unicorn)
