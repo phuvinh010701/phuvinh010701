@@ -21,7 +21,6 @@
 </h4>
 
 
-
 <div align="center" style="display: inline_block"><br>
 
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg">
@@ -51,6 +50,6 @@
 
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/phuvinh0107?theme=dark,unicorn)](https://leetcode.com/phuvinh0107/){:target="_blank"}
+[![Leetcode Stats](https://leetcard.jacoblin.cool/phuvinh0107?theme=dark,unicorn)](https://leetcode.com/phuvinh0107/){target="_blank"}
 </div>
 
