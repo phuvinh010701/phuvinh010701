@@ -51,6 +51,6 @@
 
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/phuvinh0107?theme=dark,unicorn)](https://leetcode.com/phuvinh0107/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/phuvinh0107?theme=dark,unicorn)](https://leetcode.com/phuvinh0107/){:target="_blank"}
 </div>
 
