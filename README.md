@@ -1,7 +1,9 @@
-
+![](https://komarev.com/ghpvc/?username=phuvinh0107&color=green)
 <a style="text-align:center">
 
 <h1> Hi, I’m @phuvinh010701 and I hope to become an AI Engineer <3 </h1>
+
+
 
 </a>
 
