@@ -15,7 +15,7 @@
 
 <h4 align="center">
 
-[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://pycoder.site/)
+[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://laptrinhai.id.vn/)
 [![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/phuvinh0107/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinhnguyenphu0107/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenphuvinh01@gmail.com)
@@ -46,10 +46,10 @@
   </a>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuvinh010701&layout=compact&langs_count=7&theme=tokyonight"/>
+
 </p>
 
-[![Vinh's github activity graph](https://activity-graph.herokuapp.com/graph?username=phuvinh010701&theme=xcode)](https://github.com/phuvinh010701)
-
+[![Vinh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=phuvinh010701&theme=xcode)](https://github.com/phuvinh010701)
 
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/phuvinh0107?theme=dark,unicorn)](https://leetcode.com/phuvinh0107?target="_blank")
