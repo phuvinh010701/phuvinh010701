@@ -38,11 +38,8 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/phuvinh010701">
   <img src="https://github-readme-stats.vercel.app/api?username=phuvinh010701&show_icons=true&theme=radical"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=phuvinh010701&theme=dark"> 
-  </a>
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuvinh010701&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </p>
