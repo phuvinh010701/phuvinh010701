@@ -3,8 +3,6 @@
 
 <h1> Hi, I’m @phuvinh0107 <3 </h1>
 
-
-
 </a>
 
 <div align="center" style="display:block; margin-left: auto; margin-right: auto; width:10%">
