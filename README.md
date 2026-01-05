@@ -36,9 +36,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phuvinh010701&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuvinh010701&layout=compact&langs_count=8&theme=tokyonight&hide=Jupyter%20Notebook"/>
-
+  <img src="https://github-readme-stats-beta-seven-10.vercel.app/api?username=phuvinh010701&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=phuvinh010701&layout=compact&langs_count=8&theme=tokyonight&hide=Jupyter%20Notebook"/>
 </p>
 
 [![Vinh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=phuvinh010701&theme=xcode)](https://github.com/phuvinh010701)
