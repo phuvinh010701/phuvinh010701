@@ -40,9 +40,6 @@
   <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=phuvinh010701&layout=compact&langs_count=8&theme=tokyonight&hide=Jupyter%20Notebook"/>
 </p>
 
-[![Vinh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=phuvinh010701&theme=xcode)](https://github.com/phuvinh010701)
-
-
 [![Leetcode Stats](https://leetcard.jacoblin.cool/phuvinh0107?theme=dark,unicorn)](https://leetcode.com/phuvinh0107?target="_blank")
 </div>
 
