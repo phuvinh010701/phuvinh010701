@@ -21,6 +21,10 @@
 </div>
 
 <div align="center">
-[![Leetcode Stats](https://leetcard.jacoblin.cool/phuvinh0107?theme=dark,unicorn)](https://leetcode.com/phuvinh0107?target="_blank")
+  <a href="https://leetcode.com/phuvinh0107" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/phuvinh0107?theme=dark,unicorn" alt="Leetcode Stats"/>
+  </a>
+</div>
+
 </div>
 
