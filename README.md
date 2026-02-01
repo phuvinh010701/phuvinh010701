@@ -16,10 +16,11 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-beta-seven-10.vercel.app/api?username=phuvinh010701&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=phuvinh010701&layout=compact&langs_count=8&theme=tokyonight&hide=Jupyter%20Notebook"/>
-</p>
+  <img src="./profile/stats.svg" alt="GitHub Stats"/>
+  <img src="./profile/top-langs.svg" alt="Top Languages"/>
+</div>
 
+<div align="center">
 [![Leetcode Stats](https://leetcard.jacoblin.cool/phuvinh0107?theme=dark,unicorn)](https://leetcode.com/phuvinh0107?target="_blank")
 </div>
 
